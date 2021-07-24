@@ -1,0 +1,46 @@
+.body-main{
+    background-color: rgba(218, 218, 218, 0.116) !important;
+}
+
+.input-style{
+    font-size: 1.5rem;
+    padding: 1rem 12rem 1rem 1rem !important;
+    background-color: rgb(241, 241, 241) !important;
+}
+
+.nav-link{
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.fa-search{
+    color: gray;
+    font-size: 1.7rem !important;
+    margin-left: -2.5rem;
+}
+.panda-background{
+    background-color: #feeae9;
+}
+.heading{
+    color: hotpink;
+}
+
+.price-of-button{
+    background-color: rgba(211, 211, 211, 0.308) !important;
+  color: rgb(255, 0, 128) !important;
+    font-size: 2rem !important;
+    font-weight: 600 !important;
+}
+
+.buy-now-button{
+    font-size: 1.4rem !important;
+    background-color: black !important;
+    color: white !important;
+}
+
+h4{
+    color: orange !important;
+}
+.card-body{
+   text-align: center !important;
+}
